@@ -7,10 +7,11 @@ __pycache__/
 *.pyc
 
 # Environment variables and secrets
-.env
+demo.env
+
 
 # Logs
-*.log
+temp.log
 
 # Editor settings
 .vscode/
